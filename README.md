@@ -1,5 +1,6 @@
 # Домашнее задание к лекции «Контейнеры»
 
+[![Build status](https://ci.appveyor.com/api/projects/status/rpxl5w32mpwnhtny?svg=true)](https://ci.appveyor.com/project/darknessdizi/javascript-8-map-task-2)
 
 ## Map
 
